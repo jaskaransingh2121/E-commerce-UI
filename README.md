@@ -6,7 +6,7 @@ Features include product listings, cart functionality with localStorage, and a r
 ---
 
 ## 🚀 Live Demo
-[Live Demo Link](https://your-live-link-here.netlify.app/)  
+[Live Demo Link](https://cartnexus.netlify.app/)  
 
 
 ---
